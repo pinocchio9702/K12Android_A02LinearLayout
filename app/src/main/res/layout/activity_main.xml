@@ -54,6 +54,23 @@
             android:layout_gravity="right|bottom"
             android:text="버튼2"/>
     </LinearLayout>
+    <!-- 두번째 레이아웃 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#ff0000">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="버튼1"/>
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="100dp"
+            android:layout_gravity="right|bottom"
+            android:text="버튼2"/>
+    </LinearLayout>
 
     <!--세번째 레이아웃-->
     <!--
